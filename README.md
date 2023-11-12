@@ -1,9 +1,11 @@
-# E-Commerce-API
+# HOSPITAL-API
+# LIVE 
+https://testing-5hux.onrender.com/products
 
 
 
 # ABOUT
-This is an E-commerce API made using Node.Js & MongoDB. 
+ hospital API made using Node.Js & MongoDB. 
 
 STEPS TO USE THE API:
 1) run "npm init" command on terminal in this projects directory
