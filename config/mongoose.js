@@ -3,7 +3,6 @@ const mongoose = require("mongoose");
 // connecting mongoose to its default server and ecommerceDB
 mongoose.connect(process.env.MONGO_URL, {
   useNewUrlParser: true,
-  useUnifiedTopology: true,
 });
 
 const db = mongoose.connection;
