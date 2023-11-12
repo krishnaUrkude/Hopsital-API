@@ -1,12 +1,12 @@
 {
-  "name": "hospital-api",
+  "name": "ecommerce-api",
   "version": "1.0.0",
   "description": "E-Commerce API ",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Krishna",
+  "author": "Soumya Sri",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.0",

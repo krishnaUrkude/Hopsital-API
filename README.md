@@ -1,9 +1,9 @@
-# Hospital-API
+# E-Commerce-API
 
 
 
 # ABOUT
-This is an Hospital API made using Node.Js & MongoDB. 
+This is an E-commerce API made using Node.Js & MongoDB. 
 
 STEPS TO USE THE API:
 1) run "npm init" command on terminal in this projects directory
